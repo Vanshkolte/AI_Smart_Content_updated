@@ -51,7 +51,7 @@ A powerful and user-friendly Chrome Extension that helps you **analyze YouTube v
 ## 📸 Screenshots
 
 ### 🔍 Extension Popup
-![Popup UI](assets/screenshot1.png)
+![Popup UI](Screenshot 2025-04-22 220030.png)
 
 ### 📑 Document Summary Example
 ![Document Summary](assets/screenshot2.png)
